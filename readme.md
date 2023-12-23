@@ -23,7 +23,6 @@ Use of filters is easy just do what the bot says.
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Notyuta123/Hatake-RenameBot.git)
 
 
-
 # Upcoming Features
  - These features will be included if users are there for this repo.
  - [ ] Rename tasks resume after reboot.
