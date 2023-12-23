@@ -20,7 +20,7 @@ Use of filters is easy just do what the bot says.
 
 # Deploy to Render
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/dakshkohli23/Sharingan-Rename-Bot)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/yash-dk/Mesh-RenameBot)
 
 
 
