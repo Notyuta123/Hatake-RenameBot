@@ -18,9 +18,10 @@ Use of filters is easy just do what the bot says.
  - Track user activity.
  - Force join for the user for use.
 
-# Deploy to Heroku
+# Deploy to Render
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yash-dk/Mesh-RenameBot)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/dakshkohli23/Sharingan-Rename-Bot)
+
 
 
 # Upcoming Features
